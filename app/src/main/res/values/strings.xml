@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">roulette</string>
+
+    <string-array name="roulette_setting">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+    </string-array>
+
+</resources>
